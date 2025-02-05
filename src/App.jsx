@@ -1,7 +1,8 @@
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import HomeCards from "./components/HomeCards";
-import JobListing from "./components/JobListing";
+import JobListings from "./components/JobListings";
+import ViewAllJobs from "./components/ViewAllJobs";
 
 const App = () => {
   return (
@@ -9,7 +10,10 @@ const App = () => {
       <Navbar />
       <Hero/>
       <HomeCards/>
-      <JobListing/>
+      <JobListings/>
+      <ViewAllJobs/>
+      
+
       {/* Footer */}
       <footer className="text-center py-6 bg-gray-800 text-white mt-10">
         <p>&copy; {new Date().getFullYear()} MyWebsite. All rights reserved.</p>
