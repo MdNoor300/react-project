@@ -37,7 +37,7 @@ const JobListing = ({ job }) => {
 
         <p className="text-blue-600 font-semibold mt-2">{job.salary}</p>
         <p className="text-red-500 mt-1">
-        <IoLocationOutline className="inline text-lg mb-1" />
+        <IoLocationOutline className="inline text-lg mb-1 mr-1" />
           {job.location}</p>
       </div>
 
