@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import logo from "../assets/images/logo.png";
 
 const Navbar = () => {
@@ -9,36 +10,36 @@ const Navbar = () => {
         {/* Navigation Links */}
         <ul className="flex space-x-6">
           <li>
-            <a
-              href="#"
+            <Link
+              to="/"
               className="block px-4 py-2 rounded-md text-gray-700 font-bold hover:bg-black hover:text-blue-500 transition duration-300"
             >
               Home
-            </a>
+            </Link>
           </li>
           <li>
-            <a
-              href="#"
+            <Link
+              to="/jobs"
               className="block px-4 py-2 rounded-md text-gray-700 font-bold hover:bg-black hover:text-blue-500 transition duration-300"
             >
               Jobs
-            </a>
+            </Link>
           </li>
           <li>
-            <a
-              href="#"
+            <Link
+              to="/add-job"
               className="block px-4 py-2 rounded-md text-gray-700 font-bold hover:bg-black hover:text-blue-500 transition duration-300"
             >
               Add Job
-            </a>
+            </Link>
           </li>
           <li>
-            <a
-              href="#"
+            <Link
+              to="/contact"
               className="block px-4 py-2 rounded-md text-gray-700 font-bold hover:bg-black hover:text-blue-500 transition duration-300"
             >
               Contact
-            </a>
+            </Link>
           </li>
         </ul>
       </div>

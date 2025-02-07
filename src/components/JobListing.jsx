@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { IoLocationOutline } from "react-icons/io5";
-
+import { Link } from "react-router-dom";
 
 const JobListing = ({ job }) => {
   const [showFullDescription, setShowFullDescription] = useState(false);
@@ -27,7 +27,7 @@ const JobListing = ({ job }) => {
         <p className="text-gray-600 text-sm">{job.type}</p>
         <h3 className="text-lg font-bold mt-1">{title}</h3>
         <p className="text-gray-700 mt-2">{description}</p>
-        
+
         <button
           onClick={() => setShowFullDescription((prevState) => !prevState)}
           className="text-indigo-600 mb-5 hover:text-indigo-800"
@@ -37,13 +37,16 @@ const JobListing = ({ job }) => {
 
         <p className="text-blue-600 font-semibold mt-2">{job.salary}</p>
         <p className="text-red-500 mt-1">
-        <IoLocationOutline className="inline text-lg mb-1 mr-1" />
-          {job.location}</p>
+          <IoLocationOutline className="inline text-lg mb-1 mr-1" />
+          {job.location}
+        </p>
       </div>
-
-      <button className="mt-4 bg-purple-600 text-white py-2 px-4 rounded-lg">
+      <Link
+        to={`/jobs/${job?.id}`}
+        className="w-fit mt-4 bg-blue-500 text-white py-2 px-4 rounded-lg hover:bg-blue-700"
+      >
         Read More
-      </button>
+      </Link>
     </div>
   );
 };
