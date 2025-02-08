@@ -1,56 +1,58 @@
-[
-  {
-    "id": "1",
-    "title": "Senior Developer",
-    "type": "Full-Time",
-    "location": "Boston, MA",
-    "salary": "$70K - $80K / Year",
-    "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript...",
-    "company": "NewTek Solutions"
-  },
-  {
-    "id": "2",
-    "title": "Front-End Engineer (React & Redux)",
-    "type": "Full-Time",
-    "location": "Miami, FL",
-    "salary": "$70K - $80K / Year",
-    "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications...",
-    "company": "Veneer Solutions"
-  },
-  {
-    "id": "3",
-    "title": "React.js Developer",
-    "type": "Full-Time",
-    "location": "Brooklyn, NY",
-    "salary": "$70K - $80K / Year",
-    "description": "Are you passionate about front-end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference...",
-    "company": "Dolor Cloud"
-  },
-  {
-    "id": "4",
-    "title": "React Front-End Developer",
-    "type": "Part-Time",
-    "location": "Phoenix, AZ",
-    "salary": "$60K - $70K / Year",
-    "description": "Join our team as a Part-Time Front-End Developer in beautiful Phoenix, AZ. This position offers flexible hours and the opportunity to work remotely...",
-    "company": "Alpha Elite"
-  },
-  {
-    "id": "5",
-    "title": "Full Stack React Developer",
-    "type": "Full-Time",
-    "location": "Atlanta, GA",
-    "salary": "$90K - $100K / Year",
-    "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Atlanta, GA. Join our team and make an impact!",
-    "company": "Browning Technologies"
-  },
-  {
-    "id": "6",
-    "title": "React Native Developer",
-    "type": "Full-Time",
-    "location": "Portland, OR",
-    "salary": "$100K - $110K / Year",
-    "description": "Join our team as a Front-End Developer in beautiful Portland, OR. Competitive salary and great benefits package available.",
-    "company": "Port Solutions INC"
-  }
-]
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Senior Developer",
+      "type": "Full-Time",
+      "location": "Boston, MA",
+      "salary": "$70K - $80K / Year",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript...",
+      "company": "NewTek Solutions"
+    },
+    {
+      "id": "2",
+      "title": "Front-End Engineer (React & Redux)",
+      "type": "Full-Time",
+      "location": "Miami, FL",
+      "salary": "$70K - $80K / Year",
+      "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications...",
+      "company": "Veneer Solutions"
+    },
+    {
+      "id": "3",
+      "title": "React.js Developer",
+      "type": "Full-Time",
+      "location": "Brooklyn, NY",
+      "salary": "$70K - $80K / Year",
+      "description": "Are you passionate about front-end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference...",
+      "company": "Dolor Cloud"
+    },
+    {
+      "id": "4",
+      "title": "React Front-End Developer",
+      "type": "Part-Time",
+      "location": "Phoenix, AZ",
+      "salary": "$60K - $70K / Year",
+      "description": "Join our team as a Part-Time Front-End Developer in beautiful Phoenix, AZ. This position offers flexible hours and the opportunity to work remotely...",
+      "company": "Alpha Elite"
+    },
+    {
+      "id": "5",
+      "title": "Full Stack React Developer",
+      "type": "Full-Time",
+      "location": "Atlanta, GA",
+      "salary": "$90K - $100K / Year",
+      "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Atlanta, GA. Join our team and make an impact!",
+      "company": "Browning Technologies"
+    },
+    {
+      "id": "6",
+      "title": "React Native Developer",
+      "type": "Full-Time",
+      "location": "Portland, OR",
+      "salary": "$100K - $110K / Year",
+      "description": "Join our team as a Front-End Developer in beautiful Portland, OR. Competitive salary and great benefits package available.",
+      "company": "Port Solutions INC"
+    }
+  ]
+}
