@@ -7,7 +7,9 @@
       "location": "Boston, MA",
       "salary": "$70K - $80K / Year",
       "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript...",
-      "company": "NewTek Solutions"
+      "company": "NewTek Solutions",
+      "email": "careers@portsolutions.com",
+      "phone": "+1 (503) 555-2345"
     },
     {
       "id": "2",
@@ -16,7 +18,9 @@
       "location": "Miami, FL",
       "salary": "$70K - $80K / Year",
       "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications...",
-      "company": "Veneer Solutions"
+      "company": "Veneer Solutions",
+      "email": "careers@portsolutions.com",
+      "phone": "+1 (503) 555-2345"
     },
     {
       "id": "3",
@@ -25,7 +29,9 @@
       "location": "Brooklyn, NY",
       "salary": "$70K - $80K / Year",
       "description": "Are you passionate about front-end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference...",
-      "company": "Dolor Cloud"
+      "company": "Dolor Cloud",
+      "email": "careers@portsolutions.com",
+      "phone": "+1 (503) 555-2345"
     },
     {
       "id": "4",
@@ -34,7 +40,9 @@
       "location": "Phoenix, AZ",
       "salary": "$60K - $70K / Year",
       "description": "Join our team as a Part-Time Front-End Developer in beautiful Phoenix, AZ. This position offers flexible hours and the opportunity to work remotely...",
-      "company": "Alpha Elite"
+      "company": "Alpha Elite",
+      "email": "careers@portsolutions.com",
+      "phone": "+1 (503) 555-2345"
     },
     {
       "id": "5",
@@ -43,7 +51,9 @@
       "location": "Atlanta, GA",
       "salary": "$90K - $100K / Year",
       "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Atlanta, GA. Join our team and make an impact!",
-      "company": "Browning Technologies"
+      "company": "Browning Technologies",
+      "email": "hr@browningtech.com",
+      "phone": "+1 (404) 555-6789"
     },
     {
       "id": "6",
@@ -52,7 +62,9 @@
       "location": "Portland, OR",
       "salary": "$100K - $110K / Year",
       "description": "Join our team as a Front-End Developer in beautiful Portland, OR. Competitive salary and great benefits package available.",
-      "company": "Port Solutions INC"
+      "company": "Port Solutions INC",
+      "email": "careers@portsolutions.com",
+      "phone": "+1 (503) 555-2345"
     }
   ]
 }
