@@ -65,6 +65,19 @@
       "company": "Port Solutions INC",
       "email": "careers@portsolutions.com",
       "phone": "+1 (503) 555-2345"
+    },
+    {
+      "id": "5fda",
+      "title": "International Metrics Planner",
+      "description": "Non nisi quae enim sed odio fuga nemo.",
+      "type": "Part-Time",
+      "location": "McLaughlin - Walsh",
+      "salary": "$60K - 70K",
+      "company": {
+        "name": "Leannon, Schuster and Schinner",
+        "enail": "your.email+fakedata32083@gmail.com",
+        "phone": "325-145-4108"
+      }
     }
   ]
 }
