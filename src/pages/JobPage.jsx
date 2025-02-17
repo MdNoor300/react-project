@@ -90,12 +90,12 @@ const JobPage = ({deleteJob}) => {
 
               <div className="bg-white p-6 rounded-lg shadow-md mt-6">
                 <h3 className="text-xl font-bold mb-6">Manage Job</h3>
-                <a
-                  href="/edit-job"
+                <Link
+                  to={`/edit-job/${job.id}`}
                   className="bg-blue-500 hover:bg-blue-700 text-white text-center font-bold py-2 px-4 rounded-full w-full mt-4 block"
                 >
                   Edit Job
-                </a>
+                </Link>
                 <button onClick={ () => onDeleteClick(job.id)} className="bg-red-500 hover:bg-red-600 text-white font-bold py-2 px-4 rounded-full w-full mt-4 block">
                   Delete Job
                 </button>

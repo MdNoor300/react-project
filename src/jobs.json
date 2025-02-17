@@ -3,10 +3,10 @@
     {
       "id": "1",
       "title": "Senior Developer",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript...",
       "type": "Full-Time",
       "location": "Boston, MA",
       "salary": "$70K - $80K / Year",
-      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript...",
       "company": "NewTek Solutions",
       "email": "careers@portsolutions.com",
       "phone": "+1 (503) 555-2345"
@@ -62,17 +62,6 @@
       "location": "Portland, OR",
       "salary": "$100K - $110K / Year",
       "description": "Join our team as a Front-End Developer in beautiful Portland, OR. Competitive salary and great benefits package available.",
-      "company": "Port Solutions INC",
-      "email": "careers@portsolutions.com",
-      "phone": "+1 (503) 555-2345"
-    },
-    {
-      "id": "5fda",
-      "title": "International Metrics Planner",
-      "description": "Non nisi quae enim sed odio fuga nemo.",
-      "type": "Part-Time",
-      "location": "McLaughlin - Walsh",
-      "salary": "$60K - 70K",
       "company": "Port Solutions INC",
       "email": "careers@portsolutions.com",
       "phone": "+1 (503) 555-2345"
